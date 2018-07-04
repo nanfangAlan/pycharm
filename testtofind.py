@@ -2,6 +2,6 @@ import re
 
 test = '用户输入的字符串'
 if re.match(r'正则表达式', test):
-    print('ok')
+    print('ok!!')
 else:
     print('failed')
